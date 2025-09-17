@@ -128,6 +128,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-session_files
 config.js
 views/footnotes.html
